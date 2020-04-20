@@ -1,6 +1,6 @@
-name = "{{project-name}}"
-type = "javascript"
-account_id = ""
+name = "cloudflare"
+type = "webpack"
+account_id = "10b54e753c545c7328955f0d6bd99b4a"
 workers_dev = true
 route = ""
 zone_id = ""
